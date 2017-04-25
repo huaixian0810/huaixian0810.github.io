@@ -4,9 +4,9 @@
   <subtitle>Easy coding,easy life.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://ookamiantd.top/"/>
+  <link href="huaixian0810.github.io/"/>
   <updated>2017-04-18T10:32:42.000Z</updated>
-  <id>http://ookamiantd.top/</id>
+  <id>huaixian0810.github.io/</id>
   
   <author>
     <name>ookamiAntD</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Java基本数据类型传递与引用传递的那点事</title>
-    <link href="http://ookamiantd.top/2017/java-call-by-value/"/>
-    <id>http://ookamiantd.top/2017/java-call-by-value/</id>
+    <link href="huaixian0810.github.io/2017/java-call-by-value/"/>
+    <id>huaixian0810.github.io/2017/java-call-by-value/</id>
     <published>2017-04-18T07:36:30.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -28,21 +28,21 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+      <category term="Programming" scheme="huaixian0810.github.io/categories/Programming/"/>
     
-      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/categories/Programming/Java/"/>
     
     
-      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/tags/Java/"/>
     
-      <category term="Java basics" scheme="http://ookamiantd.top/tags/Java-basics/"/>
+      <category term="Java basics" scheme="huaixian0810.github.io/tags/Java-basics/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu下IntelliJ IDEA使用笔记</title>
-    <link href="http://ookamiantd.top/2017/node-of-learning-idea-under-ubuntu/"/>
-    <id>http://ookamiantd.top/2017/node-of-learning-idea-under-ubuntu/</id>
+    <link href="huaixian0810.github.io/2017/node-of-learning-idea-under-ubuntu/"/>
+    <id>huaixian0810.github.io/2017/node-of-learning-idea-under-ubuntu/</id>
     <published>2017-04-17T10:00:00.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -52,19 +52,19 @@
     
     </summary>
     
-      <category term="IDE" scheme="http://ookamiantd.top/categories/IDE/"/>
+      <category term="IDE" scheme="huaixian0810.github.io/categories/IDE/"/>
     
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/tags/Ubuntu/"/>
     
-      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+      <category term="IDE" scheme="huaixian0810.github.io/tags/IDE/"/>
     
   </entry>
   
   <entry>
     <title>JVM知识汇总——类加载以及JVM优化</title>
-    <link href="http://ookamiantd.top/2017/jvm-knowledge-collect-02/"/>
-    <id>http://ookamiantd.top/2017/jvm-knowledge-collect-02/</id>
+    <link href="huaixian0810.github.io/2017/jvm-knowledge-collect-02/"/>
+    <id>huaixian0810.github.io/2017/jvm-knowledge-collect-02/</id>
     <published>2017-03-20T01:17:51.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -74,21 +74,21 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+      <category term="Programming" scheme="huaixian0810.github.io/categories/Programming/"/>
     
-      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/categories/Programming/Java/"/>
     
     
-      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="http://ookamiantd.top/tags/JVM/"/>
+      <category term="JVM" scheme="huaixian0810.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>JVM知识汇总——内存管理与GC</title>
-    <link href="http://ookamiantd.top/2017/jvm-knowledge-collect-01/"/>
-    <id>http://ookamiantd.top/2017/jvm-knowledge-collect-01/</id>
+    <link href="huaixian0810.github.io/2017/jvm-knowledge-collect-01/"/>
+    <id>huaixian0810.github.io/2017/jvm-knowledge-collect-01/</id>
     <published>2017-03-09T05:04:51.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -98,21 +98,21 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+      <category term="Programming" scheme="huaixian0810.github.io/categories/Programming/"/>
     
-      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/categories/Programming/Java/"/>
     
     
-      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/tags/Java/"/>
     
-      <category term="JVM" scheme="http://ookamiantd.top/tags/JVM/"/>
+      <category term="JVM" scheme="huaixian0810.github.io/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>Java开发人员最常犯的10个错误以及35个代码性能优化小结</title>
-    <link href="http://ookamiantd.top/2017/java-dev-ten-mistake-and-some-advice/"/>
-    <id>http://ookamiantd.top/2017/java-dev-ten-mistake-and-some-advice/</id>
+    <link href="huaixian0810.github.io/2017/java-dev-ten-mistake-and-some-advice/"/>
+    <id>huaixian0810.github.io/2017/java-dev-ten-mistake-and-some-advice/</id>
     <published>2017-03-07T12:40:46.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -122,19 +122,19 @@
     
     </summary>
     
-      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+      <category term="Programming" scheme="huaixian0810.github.io/categories/Programming/"/>
     
-      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/categories/Programming/Java/"/>
     
     
-      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+      <category term="Java" scheme="huaixian0810.github.io/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>基于Hexo搭建个人博客——进阶篇(从入门到入土)</title>
-    <link href="http://ookamiantd.top/2017/build-blog-hexo-advanced/"/>
-    <id>http://ookamiantd.top/2017/build-blog-hexo-advanced/</id>
+    <link href="huaixian0810.github.io/2017/build-blog-hexo-advanced/"/>
+    <id>huaixian0810.github.io/2017/build-blog-hexo-advanced/</id>
     <published>2017-02-21T15:07:34.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -144,25 +144,25 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://ookamiantd.top/categories/Hexo/"/>
+      <category term="Hexo" scheme="huaixian0810.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+      <category term="Hexo" scheme="huaixian0810.github.io/tags/Hexo/"/>
     
-      <category term="Node.js" scheme="http://ookamiantd.top/tags/Node-js/"/>
+      <category term="Node.js" scheme="huaixian0810.github.io/tags/Node-js/"/>
     
-      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+      <category term="Github" scheme="huaixian0810.github.io/tags/Github/"/>
     
-      <category term="Coding" scheme="http://ookamiantd.top/tags/Coding/"/>
+      <category term="Coding" scheme="huaixian0810.github.io/tags/Coding/"/>
     
-      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+      <category term="Git" scheme="huaixian0810.github.io/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu的Java开发环境基本搭建(JDK+IDE+Tomcat+MySQL+Navicat+Redis)</title>
-    <link href="http://ookamiantd.top/2017/ubuntu-install-jdk-ide-tomcat-mysql/"/>
-    <id>http://ookamiantd.top/2017/ubuntu-install-jdk-ide-tomcat-mysql/</id>
+    <link href="huaixian0810.github.io/2017/ubuntu-install-jdk-ide-tomcat-mysql/"/>
+    <id>huaixian0810.github.io/2017/ubuntu-install-jdk-ide-tomcat-mysql/</id>
     <published>2017-01-20T03:31:22.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -172,25 +172,25 @@
     
     </summary>
     
-      <category term="OperatingSystem" scheme="http://ookamiantd.top/categories/OperatingSystem/"/>
+      <category term="OperatingSystem" scheme="huaixian0810.github.io/categories/OperatingSystem/"/>
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/categories/OperatingSystem/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/categories/OperatingSystem/Ubuntu/"/>
     
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/tags/Ubuntu/"/>
     
-      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+      <category term="IDE" scheme="huaixian0810.github.io/tags/IDE/"/>
     
-      <category term="JDK" scheme="http://ookamiantd.top/tags/JDK/"/>
+      <category term="JDK" scheme="huaixian0810.github.io/tags/JDK/"/>
     
-      <category term="Tomcat" scheme="http://ookamiantd.top/tags/Tomcat/"/>
+      <category term="Tomcat" scheme="huaixian0810.github.io/tags/Tomcat/"/>
     
   </entry>
   
   <entry>
     <title>Git学习笔记</title>
-    <link href="http://ookamiantd.top/2017/note-of-learning-git/"/>
-    <id>http://ookamiantd.top/2017/note-of-learning-git/</id>
+    <link href="huaixian0810.github.io/2017/note-of-learning-git/"/>
+    <id>huaixian0810.github.io/2017/note-of-learning-git/</id>
     <published>2017-01-18T04:42:52.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -201,19 +201,19 @@
     
     </summary>
     
-      <category term="Git/Github" scheme="http://ookamiantd.top/categories/Git-Github/"/>
+      <category term="Git/Github" scheme="huaixian0810.github.io/categories/Git-Github/"/>
     
     
-      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+      <category term="Github" scheme="huaixian0810.github.io/tags/Github/"/>
     
-      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+      <category term="Git" scheme="huaixian0810.github.io/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>基于Hexo+github+coding搭建个人博客——基础篇(从菜鸟到放弃)</title>
-    <link href="http://ookamiantd.top/2017/build-blog-hexo-base/"/>
-    <id>http://ookamiantd.top/2017/build-blog-hexo-base/</id>
+    <link href="huaixian0810.github.io/2017/build-blog-hexo-base/"/>
+    <id>huaixian0810.github.io/2017/build-blog-hexo-base/</id>
     <published>2017-01-15T12:44:05.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -223,25 +223,25 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://ookamiantd.top/categories/Hexo/"/>
+      <category term="Hexo" scheme="huaixian0810.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+      <category term="Hexo" scheme="huaixian0810.github.io/tags/Hexo/"/>
     
-      <category term="Node.js" scheme="http://ookamiantd.top/tags/Node-js/"/>
+      <category term="Node.js" scheme="huaixian0810.github.io/tags/Node-js/"/>
     
-      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+      <category term="Github" scheme="huaixian0810.github.io/tags/Github/"/>
     
-      <category term="Coding" scheme="http://ookamiantd.top/tags/Coding/"/>
+      <category term="Coding" scheme="huaixian0810.github.io/tags/Coding/"/>
     
-      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+      <category term="Git" scheme="huaixian0810.github.io/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu安装后的主题美化与个性化设置</title>
-    <link href="http://ookamiantd.top/2017/ubuntu-todo-after-install/"/>
-    <id>http://ookamiantd.top/2017/ubuntu-todo-after-install/</id>
+    <link href="huaixian0810.github.io/2017/ubuntu-todo-after-install/"/>
+    <id>huaixian0810.github.io/2017/ubuntu-todo-after-install/</id>
     <published>2017-01-12T15:04:36.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -251,19 +251,19 @@
     
     </summary>
     
-      <category term="OperatingSystem" scheme="http://ookamiantd.top/categories/OperatingSystem/"/>
+      <category term="OperatingSystem" scheme="huaixian0810.github.io/categories/OperatingSystem/"/>
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/categories/OperatingSystem/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/categories/OperatingSystem/Ubuntu/"/>
     
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu16.04下MyEclipse安装与破解</title>
-    <link href="http://ookamiantd.top/2017/ubuntu-myeclipse-crack/"/>
-    <id>http://ookamiantd.top/2017/ubuntu-myeclipse-crack/</id>
+    <link href="huaixian0810.github.io/2017/ubuntu-myeclipse-crack/"/>
+    <id>huaixian0810.github.io/2017/ubuntu-myeclipse-crack/</id>
     <published>2017-01-11T03:52:00.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -273,19 +273,19 @@
     
     </summary>
     
-      <category term="IDE" scheme="http://ookamiantd.top/categories/IDE/"/>
+      <category term="IDE" scheme="huaixian0810.github.io/categories/IDE/"/>
     
     
-      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="huaixian0810.github.io/tags/Ubuntu/"/>
     
-      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+      <category term="IDE" scheme="huaixian0810.github.io/tags/IDE/"/>
     
   </entry>
   
   <entry>
     <title>Start My Blog Trip — Power By Hexo</title>
-    <link href="http://ookamiantd.top/2017/hello-world/"/>
-    <id>http://ookamiantd.top/2017/hello-world/</id>
+    <link href="huaixian0810.github.io/2017/hello-world/"/>
+    <id>huaixian0810.github.io/2017/hello-world/</id>
     <published>2017-01-10T15:49:28.000Z</published>
     <updated>2017-04-18T10:32:42.000Z</updated>
     
@@ -295,10 +295,10 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://ookamiantd.top/categories/Essay/"/>
+      <category term="Essay" scheme="huaixian0810.github.io/categories/Essay/"/>
     
     
-      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+      <category term="Hexo" scheme="huaixian0810.github.io/tags/Hexo/"/>
     
   </entry>
   

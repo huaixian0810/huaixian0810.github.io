@@ -1,4 +1,4 @@
-http://ookamiantd.top/2017/java-call-by-value/
-http://ookamiantd.top/2017/node-of-learning-idea-under-ubuntu/
-http://ookamiantd.top/2017/jvm-knowledge-collect-02/
-http://ookamiantd.top/2017/jvm-knowledge-collect-01/
+huaixian0810.github.io/2017/java-call-by-value/
+huaixian0810.github.io/2017/node-of-learning-idea-under-ubuntu/
+huaixian0810.github.io/2017/jvm-knowledge-collect-02/
+huaixian0810.github.io/2017/jvm-knowledge-collect-01/
