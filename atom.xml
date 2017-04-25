@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ookamiAntD&#39;s Blog</title>
+  <subtitle>Easy coding,easy life.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ookamiantd.top/"/>
+  <updated>2017-04-18T10:32:42.000Z</updated>
+  <id>http://ookamiantd.top/</id>
+  
+  <author>
+    <name>ookamiAntD</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java基本数据类型传递与引用传递的那点事</title>
+    <link href="http://ookamiantd.top/2017/java-call-by-value/"/>
+    <id>http://ookamiantd.top/2017/java-call-by-value/</id>
+    <published>2017-04-18T07:36:30.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;今天在逛博客的时候看到了有意思的东西，下面代码会输出什么？&lt;br&gt;&lt;/p&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;6&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;7&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;8&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;9&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;change&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(String s)&lt;/span&gt; &lt;/span&gt;&amp;#123;     &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    s = &lt;span class=&quot;string&quot;&gt;&quot;123&quot;&lt;/span&gt;;    &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;     &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(String args[])&lt;/span&gt; &lt;/span&gt;&amp;#123;     &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    String s = &lt;span class=&quot;string&quot;&gt;&quot;abc&quot;&lt;/span&gt;;     &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    change(s);     &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    System.out.println(s);  &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;结果是&lt;code&gt;abc&lt;/code&gt;。&lt;br&gt;为什么？经过一番查找与理解，又学习到了…&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+    
+      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+    
+    
+      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+    
+      <category term="Java basics" scheme="http://ookamiantd.top/tags/Java-basics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu下IntelliJ IDEA使用笔记</title>
+    <link href="http://ookamiantd.top/2017/node-of-learning-idea-under-ubuntu/"/>
+    <id>http://ookamiantd.top/2017/node-of-learning-idea-under-ubuntu/</id>
+    <published>2017-04-17T10:00:00.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Preface&quot;&gt;&lt;a href=&quot;#Preface&quot; class=&quot;headerlink&quot; title=&quot;Preface&quot;&gt;&lt;/a&gt;Preface&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;使用IDEA&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="IDE" scheme="http://ookamiantd.top/categories/IDE/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+    
+      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JVM知识汇总——类加载以及JVM优化</title>
+    <link href="http://ookamiantd.top/2017/jvm-knowledge-collect-02/"/>
+    <id>http://ookamiantd.top/2017/jvm-knowledge-collect-02/</id>
+    <published>2017-03-20T01:17:51.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/jvm/class.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://ookamiantd.top/2017/jvm-knowledge-collect-01/&quot;&gt;上一篇&lt;/a&gt;记录了JVM内存管理相关知识，这一篇来写一下类加载相关以及一些优化&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+    
+      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+    
+    
+      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+    
+      <category term="JVM" scheme="http://ookamiantd.top/tags/JVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JVM知识汇总——内存管理与GC</title>
+    <link href="http://ookamiantd.top/2017/jvm-knowledge-collect-01/"/>
+    <id>http://ookamiantd.top/2017/jvm-knowledge-collect-01/</id>
+    <published>2017-03-09T05:04:51.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/jvm/structure.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;想要深刻地理解Java，那么就要深入地理解底层——JVM(Java Virtual Machine | Java虚拟机)。&lt;br&gt;JVM（Java Virtual Machine）Java 虚拟机是整个 java 平台的基石，是 java 系统实现硬件无关与操作系统无关的关键部分，是保障用户机器免于恶意代码损害的屏障。Java开发人员不需要了解JVM是如何工作的，但是，了解 JVM 有助于我们更好的开（通）发（过） java（公司） 程（面）序（试）&lt;br&gt;博主经过一番查阅，找到了自认为写的好的一些文章，并记录总结，方便不定时的看。&lt;br&gt;希望每次看都会有新的领悟，不断提高自己。&lt;/p&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+    
+      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+    
+    
+      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+    
+      <category term="JVM" scheme="http://ookamiantd.top/tags/JVM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java开发人员最常犯的10个错误以及35个代码性能优化小结</title>
+    <link href="http://ookamiantd.top/2017/java-dev-ten-mistake-and-some-advice/"/>
+    <id>http://ookamiantd.top/2017/java-dev-ten-mistake-and-some-advice/</id>
+    <published>2017-03-07T12:40:46.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/java/mistake.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;&lt;p&gt;人非圣贤孰能无过，编程更是一门要求非常严谨的学问，难免会在敲代码时一个不留神就产生一个BUG，解决一个BUG难免又会出现十个BUG。&lt;br&gt;代码优化，一个很重要的课题。可能有些人觉得没用，一些细小的地方有什么好修改的，改与不改对于代码的运行效率有什么影响呢？这个问题我是这么考虑的，就像大海里面的鲸鱼一样，它吃一条小虾米有用吗？没用，但是，吃的小虾米一多之后，鲸鱼就被喂饱了。代码优化也是一样，如果项目着眼于尽快无BUG上线，那么此时可以抓大放小，代码的细节可以不精打细磨；但是如果有足够的时间开发、维护代码，这时候就必须考虑每个可以优化的细节了，一个一个细小的优化点累积起来，对于代码的运行效率绝对是有提升的。&lt;br&gt;下面博主就分享一下Java开发人员最常犯的10个错误以及一些代码优化，也希望自己把这些优化当成习惯融入平时。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Programming" scheme="http://ookamiantd.top/categories/Programming/"/>
+    
+      <category term="Java" scheme="http://ookamiantd.top/categories/Programming/Java/"/>
+    
+    
+      <category term="Java" scheme="http://ookamiantd.top/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Hexo搭建个人博客——进阶篇(从入门到入土)</title>
+    <link href="http://ookamiantd.top/2017/build-blog-hexo-advanced/"/>
+    <id>http://ookamiantd.top/2017/build-blog-hexo-advanced/</id>
+    <published>2017-02-21T15:07:34.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/build-hexo/next.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;好久没更新了，因为懒- -&lt;br&gt;前面介绍了Hexo的一些基本搭建→&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.ookamiantd.top/2017/build-blog-hexo-base/&quot;&gt;基于Hexo+github+coding搭建个人博客——基础篇(从菜鸟到放弃)&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;对于追求装X的博主来说，基本的搭建是满足不了的，接下来整理了一下各方面的细节优化，包括页面字体大小、配色、背景、SEO(搜索引擎优化)、域名绑定、DNS域名解析实现负载均衡等。&lt;br&gt;关于&lt;code&gt;NexT&lt;/code&gt;主题的很多配置、插件都可以在&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;theme-next.iissnan.com/getting-started.html&quot;&gt;官方文档&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;找到答案，那么博主只是整理了一些官方没怎么提及的细节优化。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://ookamiantd.top/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+    
+      <category term="Node.js" scheme="http://ookamiantd.top/tags/Node-js/"/>
+    
+      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+    
+      <category term="Coding" scheme="http://ookamiantd.top/tags/Coding/"/>
+    
+      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu的Java开发环境基本搭建(JDK+IDE+Tomcat+MySQL+Navicat+Redis)</title>
+    <link href="http://ookamiantd.top/2017/ubuntu-install-jdk-ide-tomcat-mysql/"/>
+    <id>http://ookamiantd.top/2017/ubuntu-install-jdk-ide-tomcat-mysql/</id>
+    <published>2017-01-20T03:31:22.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近公司的电脑由于不明原因老是奔溃，重装过两次，在家里也比较喜欢折腾系统，为了不用每次都度娘谷歌，记录下来，一条龙走过。博主是搞爪哇开发的，那么以下搭建针对的是爪哇环境开发&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="OperatingSystem" scheme="http://ookamiantd.top/categories/OperatingSystem/"/>
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/categories/OperatingSystem/Ubuntu/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+    
+      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+    
+      <category term="JDK" scheme="http://ookamiantd.top/tags/JDK/"/>
+    
+      <category term="Tomcat" scheme="http://ookamiantd.top/tags/Tomcat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git学习笔记</title>
+    <link href="http://ookamiantd.top/2017/note-of-learning-git/"/>
+    <id>http://ookamiantd.top/2017/note-of-learning-git/</id>
+    <published>2017-01-18T04:42:52.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/git/git-operations.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;What is Git?&lt;br&gt;Git是目前世界上最先进的分布式版本控制系统（没有之一），而且是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目&lt;br&gt;一直以来，博主开发项目用的版本管理系用都是SVN&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;&lt;span class=&quot;hint--top-right hint--error hint--large&quot; aria-label=&quot;集中式版本管理系统之一
+&quot;&gt;[1]&lt;/span&gt;&lt;/a&gt;&lt;/sup&gt;，其实早就听闻过Git，一直没用过，后来接触Github和Hexo博客框架，才真正意义上开始接触Git，感受就是高端大气上档次！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Git/Github" scheme="http://ookamiantd.top/categories/Git-Github/"/>
+    
+    
+      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+    
+      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Hexo+github+coding搭建个人博客——基础篇(从菜鸟到放弃)</title>
+    <link href="http://ookamiantd.top/2017/build-blog-hexo-base/"/>
+    <id>http://ookamiantd.top/2017/build-blog-hexo-base/</id>
+    <published>2017-01-15T12:44:05.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/build-hexo/hexoGoverment.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;搭建此博客的动机以及好处在此就不多谈了，之前已经表达过，详情请看&lt;em&gt;&lt;a href=&quot;http://ookamiantd.top/20170110/hello-world/&quot;&gt;Start My Blog Trip — Power By Hexo&lt;/a&gt;&lt;/em&gt;&lt;br&gt;记录一下搭建的基本过程以及遇到的一些问题，仅供参考&lt;br&gt;= =废话不多说，进入主题&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://ookamiantd.top/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+    
+      <category term="Node.js" scheme="http://ookamiantd.top/tags/Node-js/"/>
+    
+      <category term="Github" scheme="http://ookamiantd.top/tags/Github/"/>
+    
+      <category term="Coding" scheme="http://ookamiantd.top/tags/Coding/"/>
+    
+      <category term="Git" scheme="http://ookamiantd.top/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu安装后的主题美化与个性化设置</title>
+    <link href="http://ookamiantd.top/2017/ubuntu-todo-after-install/"/>
+    <id>http://ookamiantd.top/2017/ubuntu-todo-after-install/</id>
+    <published>2017-01-12T15:04:36.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/individuation/desktop.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;既然是博主是喜欢折腾的人，那么重装这种事情也是必不可少的，每次重装之后，重新设置个性化总是觉得少了点什么。博主笨拙，那么把需要安装的、美化的记下来免得下次又少了点什么。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="OperatingSystem" scheme="http://ookamiantd.top/categories/OperatingSystem/"/>
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/categories/OperatingSystem/Ubuntu/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu16.04下MyEclipse安装与破解</title>
+    <link href="http://ookamiantd.top/2017/ubuntu-myeclipse-crack/"/>
+    <id>http://ookamiantd.top/2017/ubuntu-myeclipse-crack/</id>
+    <published>2017-01-11T03:52:00.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/ubuntu-myclipse-crack/myeclipseInfo.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;&lt;ul&gt;&lt;li&gt;之前一直用的是Eclipse Luna，没有用MyEclipse是因为它&lt;strong&gt;收钱&lt;/strong&gt;的- -，去新公司工作需要用到MyEclipse，下载安装happy地&lt;strong&gt;试用&lt;/strong&gt;了将近一个月，不幸，试用期已过。身为一个开源爱好者，不想去用破解的（虚伪 - -），也不想出钱，博主秉着屌丝的意志，一番折腾过后，搞定。以下是经过参考与总结得到的操作步骤，博主用的是Linux的发行版Ubuntu，所以以下步骤针对Ubuntu系统，win与mac的步骤也大同小异。
+    
+    </summary>
+    
+      <category term="IDE" scheme="http://ookamiantd.top/categories/IDE/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://ookamiantd.top/tags/Ubuntu/"/>
+    
+      <category term="IDE" scheme="http://ookamiantd.top/tags/IDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Start My Blog Trip — Power By Hexo</title>
+    <link href="http://ookamiantd.top/2017/hello-world/"/>
+    <id>http://ookamiantd.top/2017/hello-world/</id>
+    <published>2017-01-10T15:49:28.000Z</published>
+    <updated>2017-04-18T10:32:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojoba1c98.bkt.clouddn.com/img/hello-world/start-trip.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;Life is a generic method like [ public&lt;t&gt;Life doSomething(T t){} ],T is the part of life that requires you to play in a period of time,and the method will return a life you expect if you to be T.&lt;br&gt;—— &lt;strong&gt;&lt;em&gt;沃·兹基硕德&lt;/em&gt;&lt;/strong&gt;&lt;/t&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;br&gt;为什么要写博客？除了可以将自己在工作学习中的一些知识及经验记录下来。不断积累知识，不断总结经验以外，更重要的是 &lt;em&gt;&lt;a href=&quot;http://www.15yan.com/topic/chuang-zuo-de-mi-mi/i0sBdlKnryf/?f=wx&quot;&gt;为了保持逼格，不要停止写作&lt;/a&gt;&lt;/em&gt; 。虽然高中的语文&lt;strong&gt;从来&lt;/strong&gt;都没有及格过，作文也写得挺烂，但我会尽力得用我拙劣的语言把每一篇博客都写好…&lt;p&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Essay" scheme="http://ookamiantd.top/categories/Essay/"/>
+    
+    
+      <category term="Hexo" scheme="http://ookamiantd.top/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
